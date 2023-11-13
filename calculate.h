@@ -7,3 +7,4 @@
 float Calculate(float Numeral, char Operation[4]);
 
 #endif /*CALCULATE_H_*/
+!
